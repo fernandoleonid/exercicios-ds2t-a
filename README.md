@@ -8,7 +8,7 @@ Lista de exercícios sobre Javascript realizados em sala de aula
     </summary>
 
 * [Nome aluno1](http://www.nomeAluno1.com.br)
-* [Nome aluno2](http://www.nomealuno2.com.br)
+* [Artur Alves](https://github.com/ArturAlvess/aulas-front-end)
 
   
 </details>
