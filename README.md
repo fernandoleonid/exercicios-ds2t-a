@@ -10,6 +10,7 @@ Lista de exercícios sobre Javascript realizados em sala de aula
 * [Nome aluno1](http://www.nomeAluno1.com.br)
 * [Artur Alves](https://github.com/ArturAlvess/aulas-front-end)
 * [Bianca Leão](https://github.com/leaobia/aula01pfwe)
+* [Julia Soares](https://github.com/Xul14/Aulas-Front-End)
 
   
 </details>
